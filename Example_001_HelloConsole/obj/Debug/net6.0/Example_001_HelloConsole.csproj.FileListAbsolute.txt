@@ -1,0 +1,15 @@
+D:\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_001_HelloConsole\obj\Debug\net6.0\Example_001_HelloConsole.csproj.AssemblyReference.cache
+D:\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_001_HelloConsole\obj\Debug\net6.0\Example_001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_001_HelloConsole\obj\Debug\net6.0\Example_001_HelloConsole.AssemblyInfoInputs.cache
+D:\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_001_HelloConsole\obj\Debug\net6.0\Example_001_HelloConsole.AssemblyInfo.cs
+D:\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_001_HelloConsole\obj\Debug\net6.0\Example_001_HelloConsole.csproj.CoreCompileInputs.cache
+D:\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_001_HelloConsole\bin\Debug\net6.0\Example_001_HelloConsole.exe
+D:\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_001_HelloConsole\bin\Debug\net6.0\Example_001_HelloConsole.deps.json
+D:\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_001_HelloConsole\bin\Debug\net6.0\Example_001_HelloConsole.runtimeconfig.json
+D:\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_001_HelloConsole\bin\Debug\net6.0\Example_001_HelloConsole.dll
+D:\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_001_HelloConsole\bin\Debug\net6.0\Example_001_HelloConsole.pdb
+D:\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_001_HelloConsole\obj\Debug\net6.0\Example_001_HelloConsole.dll
+D:\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_001_HelloConsole\obj\Debug\net6.0\refint\Example_001_HelloConsole.dll
+D:\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_001_HelloConsole\obj\Debug\net6.0\Example_001_HelloConsole.pdb
+D:\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_001_HelloConsole\obj\Debug\net6.0\Example_001_HelloConsole.genruntimeconfig.cache
+D:\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_001_HelloConsole\obj\Debug\net6.0\ref\Example_001_HelloConsole.dll
