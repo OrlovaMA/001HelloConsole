@@ -1,0 +1,15 @@
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_003_Sum\bin\Debug\net6.0\Example_003_Sum.exe
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_003_Sum\bin\Debug\net6.0\Example_003_Sum.deps.json
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_003_Sum\bin\Debug\net6.0\Example_003_Sum.runtimeconfig.json
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_003_Sum\bin\Debug\net6.0\Example_003_Sum.dll
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_003_Sum\bin\Debug\net6.0\Example_003_Sum.pdb
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_003_Sum\obj\Debug\net6.0\Example_003_Sum.csproj.AssemblyReference.cache
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_003_Sum\obj\Debug\net6.0\Example_003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_003_Sum\obj\Debug\net6.0\Example_003_Sum.AssemblyInfoInputs.cache
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_003_Sum\obj\Debug\net6.0\Example_003_Sum.AssemblyInfo.cs
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_003_Sum\obj\Debug\net6.0\Example_003_Sum.csproj.CoreCompileInputs.cache
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_003_Sum\obj\Debug\net6.0\Example_003_Sum.dll
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_003_Sum\obj\Debug\net6.0\refint\Example_003_Sum.dll
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_003_Sum\obj\Debug\net6.0\Example_003_Sum.pdb
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_003_Sum\obj\Debug\net6.0\Example_003_Sum.genruntimeconfig.cache
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_003_Sum\obj\Debug\net6.0\ref\Example_003_Sum.dll
