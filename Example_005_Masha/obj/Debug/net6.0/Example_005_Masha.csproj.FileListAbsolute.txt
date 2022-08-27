@@ -1,0 +1,15 @@
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_005_Masha\bin\Debug\net6.0\Example_005_Masha.exe
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_005_Masha\bin\Debug\net6.0\Example_005_Masha.deps.json
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_005_Masha\bin\Debug\net6.0\Example_005_Masha.runtimeconfig.json
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_005_Masha\bin\Debug\net6.0\Example_005_Masha.dll
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_005_Masha\bin\Debug\net6.0\Example_005_Masha.pdb
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_005_Masha\obj\Debug\net6.0\Example_005_Masha.csproj.AssemblyReference.cache
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_005_Masha\obj\Debug\net6.0\Example_005_Masha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_005_Masha\obj\Debug\net6.0\Example_005_Masha.AssemblyInfoInputs.cache
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_005_Masha\obj\Debug\net6.0\Example_005_Masha.AssemblyInfo.cs
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_005_Masha\obj\Debug\net6.0\Example_005_Masha.csproj.CoreCompileInputs.cache
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_005_Masha\obj\Debug\net6.0\Example_005_Masha.dll
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_005_Masha\obj\Debug\net6.0\refint\Example_005_Masha.dll
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_005_Masha\obj\Debug\net6.0\Example_005_Masha.pdb
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_005_Masha\obj\Debug\net6.0\Example_005_Masha.genruntimeconfig.cache
+C:\Users\oma11\Documents\GeekEd\3. Знакомство с языками программирования\1. Урок 1. Знакомство с языком программирования C# (лекция)\Examples\Example_005_Masha\obj\Debug\net6.0\ref\Example_005_Masha.dll
